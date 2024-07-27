@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Wanderish-eras/2. Blooden years.md",
+                "file": "2. Wanderish-eras/1. Golden era.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Wanderish-eras/2. Blooden years.md",
+                "file": "2. Wanderish-eras/1. Golden era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Wanderish-eras/2. Blooden years.md",
+                "file": "2. Wanderish-eras/1. Golden era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Wanderish-eras/2. Blooden years.md"
+                "file": "2. Wanderish-eras/1. Golden era.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "18297faa8d358549",
   "lastOpenFiles": [
-    "2. Wanderish-eras/3. Fall of the Wanderers.md",
     "2. Wanderish-eras/2. Blooden years.md",
+    "2. Wanderish-eras/3. Fall of the Wanderers.md",
     "2. Wanderish-eras/1. Golden era.md",
     "Important events/Collapse of Nakapa.md",
     "Important events",
