@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wishing.md",
+                "file": "Important concepts/Wishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Wanderish-eras/Golden era.md",
+                "file": "2. Wanderish-eras/1. Golden era.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18297faa8d358549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Wanderish-eras/2. Blooden years.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Wanderish-eras/Golden era.md",
+                "file": "2. Wanderish-eras/2. Blooden years.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Wanderish-eras/Golden era.md",
+                "file": "2. Wanderish-eras/2. Blooden years.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Wanderish-eras/Golden era.md"
+                "file": "2. Wanderish-eras/2. Blooden years.md"
               }
             }
           }
@@ -159,16 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8407a6c6af4893b9",
+  "active": "18297faa8d358549",
   "lastOpenFiles": [
+    "2. Wanderish-eras/3. Fall of the Wanderers.md",
+    "2. Wanderish-eras/2. Blooden years.md",
+    "2. Wanderish-eras/1. Golden era.md",
+    "Important events/Collapse of Nakapa.md",
+    "Important events",
+    "Important concepts/Wishing.md",
     "2. Wanderish-eras/Golden Era/Description.md",
-    "2. Wanderish-eras/Golden era.md",
     "2. Wanderish-eras/Untitled.md",
     "2. Wanderish-eras/Golden Era",
-    "Wishing.md",
     "2. Wanderish-eras",
     "README.md",
-    "Collapse of Nakapa.md",
     "Important concepts/Shaping.md",
     "Languages",
     "3. Intermedium/Events/Shaping of Hekapek.md",
@@ -193,10 +208,7 @@
     "Untitled.canvas",
     "3. Intermedium/Factions",
     "4. Chaos  [Current era]/Geography",
-    "3. Intermedium/Events",
     "Post-Shattering/Events/The Fog-War.md",
-    "Post-Shattering/Events/Collapse of the Council.md",
-    "Post-Shattering/Factions/The Factory.md",
-    "Post-Shattering/Factions/Technorepublic of Anímait-Lineli.md"
+    "Post-Shattering/Events/Collapse of the Council.md"
   ]
 }
