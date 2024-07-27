@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "15afa599cd471a06",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4190a0f98b8508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273596d5126caf1c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6276c4fd86786b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "727d711927594a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8407a6c6af4893b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e4ee42280aa469c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd904687e02dd887",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d4c4b2eff00df8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f285776a8bb3e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53031e703e11e1b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5f4374f4d172296",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efc586878b6dd223",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "badf3c6224217a8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8407a6c6af4893b9",
+  "lastOpenFiles": [
+    "Languages",
+    "Important concepts/Shaping.md",
+    "3. Intermedium/Events/Shaping of Hekapek.md",
+    "Collapse of Nakapa.md",
+    "3. Intermedium/Unstable Years.md",
+    "3. Intermedium/Factions/Techno-Republic of Anímait-Lineli.md",
+    "3. Intermedium/Factions/Hekapek.md",
+    "3. Intermedium/Factions/Grand Council.md",
+    "3. Intermedium/Factions/Factory.md",
+    "3. Intermedium/Factions/Confederacy of Majaka.md",
+    "Common geographic features",
+    "Important concepts",
+    "4. Chaos  [Current era]/Geography/Leznakvaiju.md",
+    "Wishing.md",
+    "1. Primordial times/Shaper Keilepe.md",
+    "Shattering of Nakapa.md",
+    "2. Wanderish eras/Moiffe Aminu.md",
+    "Important characters/Shaper Eleipe.md",
+    "2. Wanderish eras/Factions/Clergy of the Ashtree.md",
+    "2. Wanderish eras/Factions",
+    "1. Primordial times/shapers.md",
+    "2. Wanderish eras/Ashtree.md",
+    "Important characters",
+    "Untitled.canvas",
+    "3. Intermedium/Factions",
+    "4. Chaos  [Current era]/Geography",
+    "3. Intermedium/Events",
+    "4. Chaos  [Current era]",
+    "3. Intermedium",
+    "2. Wanderish eras",
+    "Post-Shattering/Events/The Fog-War.md",
+    "Post-Shattering/Events/Collapse of the Council.md",
+    "Post-Shattering/Factions/The Factory.md",
+    "Post-Shattering/Factions/Technorepublic of Anímait-Lineli.md",
+    "Post-Shattering/Locations/Far-Fog/Far Fog.md",
+    "Post-Shattering/Factions/Grand Council.md",
+    "Post-Shattering/Locations/Eyes-Reach/Eye's Reach.md"
+  ]
+}

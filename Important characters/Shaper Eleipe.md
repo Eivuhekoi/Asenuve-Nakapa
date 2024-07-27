@@ -1,0 +1,1 @@
+Eleipe, also known as "Shaper of Hekape" and "Eleipe the Benevolent", is a [[shapers|shaper]], known mainly for the [[Shaping of Hekapek|shaping of Hekapek]] as well as acting as the leader of [[Hekapek]] during the Intermedium, and currently the *Guardian of Leznakvaiju*.

@@ -1,0 +1,2 @@
+Leznakvaiju (The Final Home) is the only remaining large settlement after the [[Collapse of Nakapa|Collapse]]. Orginally the capital of [[Hekapek]] it was transitioned in to a safe have for all survivors by the order of [[Shaper Eleipe|Eleipe]]
+ 

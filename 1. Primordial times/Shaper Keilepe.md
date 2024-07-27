@@ -1,0 +1,1 @@
+Keilepe was a [[shapers|shaper]] and the first shaper to make an apparance in Nakapa, as well as being the one responsible for the [[Shaping of Nakapa]].

@@ -1,0 +1,1 @@
+Shaping is the when a [[shapers|shaper]] molds something as they see fit. This could range from changing a small area, to changing live creatutes, to changing the fabric of an entire [[Shaping of Nakapa|world]].

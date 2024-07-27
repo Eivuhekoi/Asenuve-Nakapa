@@ -1,0 +1,3 @@
+The Collapse of Nakapa was a cataclysmic event brought caused by the various military conflicts in the wake of the end of the [[Grand Council]]. These military conflicts were mainly fought between the major factions of the Council before its collapse: [[Techno-Republic of Anímait-Lineli|Anímait-Lineli]], [[Factory]] and [[Confederacy of Majaka|Majaka]].
+
+What escalated these conflicts from major to world-ending was the discovery of [[Wishing#Wishing trees|Wishing trees]] and subsequent both the rediscovery of the ancient art of [[Wishing|wishing]] and new forms of utilizing [[Wishing#ejkléz|essence]]
