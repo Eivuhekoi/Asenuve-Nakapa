@@ -11,8 +11,12 @@
             "id": "273596d5126caf1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Wishing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wishing.md"
+              }
             }
           }
         ]
@@ -140,10 +148,13 @@
   },
   "active": "8407a6c6af4893b9",
   "lastOpenFiles": [
-    "Languages",
-    "Important concepts/Shaping.md",
-    "3. Intermedium/Events/Shaping of Hekapek.md",
+    "2. Wanderish-eras",
+    "README.md",
     "Collapse of Nakapa.md",
+    "Wishing.md",
+    "Important concepts/Shaping.md",
+    "Languages",
+    "3. Intermedium/Events/Shaping of Hekapek.md",
     "3. Intermedium/Unstable Years.md",
     "3. Intermedium/Factions/Techno-Republic of Anímait-Lineli.md",
     "3. Intermedium/Factions/Hekapek.md",
@@ -153,7 +164,6 @@
     "Common geographic features",
     "Important concepts",
     "4. Chaos  [Current era]/Geography/Leznakvaiju.md",
-    "Wishing.md",
     "1. Primordial times/Shaper Keilepe.md",
     "Shattering of Nakapa.md",
     "2. Wanderish eras/Moiffe Aminu.md",
@@ -169,13 +179,11 @@
     "3. Intermedium/Events",
     "4. Chaos  [Current era]",
     "3. Intermedium",
-    "2. Wanderish eras",
     "Post-Shattering/Events/The Fog-War.md",
     "Post-Shattering/Events/Collapse of the Council.md",
     "Post-Shattering/Factions/The Factory.md",
     "Post-Shattering/Factions/Technorepublic of Anímait-Lineli.md",
     "Post-Shattering/Locations/Far-Fog/Far Fog.md",
-    "Post-Shattering/Factions/Grand Council.md",
-    "Post-Shattering/Locations/Eyes-Reach/Eye's Reach.md"
+    "Post-Shattering/Factions/Grand Council.md"
   ]
 }
