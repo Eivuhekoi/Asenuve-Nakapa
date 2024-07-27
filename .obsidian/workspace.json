@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "856080d81bf280e0",
+            "id": "917c05597b9474c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Wanderish-eras/Golden Era/Description.md",
+                "file": "2. Wanderish-eras/Golden era.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Wanderish-eras/Golden Era/Description.md",
+                "file": "2. Wanderish-eras/Golden era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Wanderish-eras/Golden Era/Description.md",
+                "file": "2. Wanderish-eras/Golden era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Wanderish-eras/Golden Era/Description.md"
+                "file": "2. Wanderish-eras/Golden era.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "856080d81bf280e0",
+  "active": "8407a6c6af4893b9",
   "lastOpenFiles": [
-    "2. Wanderish-eras/Untitled.md",
     "2. Wanderish-eras/Golden Era/Description.md",
+    "2. Wanderish-eras/Golden era.md",
+    "2. Wanderish-eras/Untitled.md",
     "2. Wanderish-eras/Golden Era",
     "Wishing.md",
     "2. Wanderish-eras",
@@ -196,7 +197,6 @@
     "Post-Shattering/Events/The Fog-War.md",
     "Post-Shattering/Events/Collapse of the Council.md",
     "Post-Shattering/Factions/The Factory.md",
-    "Post-Shattering/Factions/Technorepublic of Anímait-Lineli.md",
-    "Post-Shattering/Locations/Far-Fog/Far Fog.md"
+    "Post-Shattering/Factions/Technorepublic of Anímait-Lineli.md"
   ]
 }
