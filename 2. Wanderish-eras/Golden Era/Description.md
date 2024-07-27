@@ -1,0 +1,1 @@
+The Wanderish Golden era refers to the time between the Shaping of Nakapa, and the Fall of the Wanderers. The exact duration of this era is unknown, with only the date of its end being somewhat known.

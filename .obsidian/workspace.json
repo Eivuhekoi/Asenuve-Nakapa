@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "856080d81bf280e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Wanderish-eras/Golden Era/Description.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wishing.md",
+                "file": "2. Wanderish-eras/Golden Era/Description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wishing.md",
+                "file": "2. Wanderish-eras/Golden Era/Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wishing.md"
+                "file": "2. Wanderish-eras/Golden Era/Description.md"
               }
             }
           }
@@ -146,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8407a6c6af4893b9",
+  "active": "856080d81bf280e0",
   "lastOpenFiles": [
+    "2. Wanderish-eras/Untitled.md",
+    "2. Wanderish-eras/Golden Era/Description.md",
+    "2. Wanderish-eras/Golden Era",
+    "Wishing.md",
     "2. Wanderish-eras",
     "README.md",
     "Collapse of Nakapa.md",
-    "Wishing.md",
     "Important concepts/Shaping.md",
     "Languages",
     "3. Intermedium/Events/Shaping of Hekapek.md",
@@ -177,13 +193,10 @@
     "3. Intermedium/Factions",
     "4. Chaos  [Current era]/Geography",
     "3. Intermedium/Events",
-    "4. Chaos  [Current era]",
-    "3. Intermedium",
     "Post-Shattering/Events/The Fog-War.md",
     "Post-Shattering/Events/Collapse of the Council.md",
     "Post-Shattering/Factions/The Factory.md",
     "Post-Shattering/Factions/Technorepublic of Anímait-Lineli.md",
-    "Post-Shattering/Locations/Far-Fog/Far Fog.md",
-    "Post-Shattering/Factions/Grand Council.md"
+    "Post-Shattering/Locations/Far-Fog/Far Fog.md"
   ]
 }
